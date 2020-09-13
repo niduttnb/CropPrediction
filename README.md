@@ -5,7 +5,7 @@ The dataset consists of 13 most common crops in India. We considered 4 main envi
 1) pH
 2) Rainfall(in mm)
 3) Relative Humidity
-4) Temperature
+4) Temperature <br/>
 Also we built a UI using PyQT, where in a farmer can enter the above mentioned environmental conditions and can select one of the give 4 models:
 1) KNN
 2) Random Forest
